@@ -8,10 +8,10 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/graph-gophers/graphql-go/errors"
-	"github.com/graph-gophers/graphql-go/internal/exec/resolvable"
-	"github.com/graph-gophers/graphql-go/internal/exec/selected"
-	"github.com/graph-gophers/graphql-go/types"
+	"github.com/mgyong/graphql-go/errors"
+	"github.com/mgyong/graphql-go/internal/exec/resolvable"
+	"github.com/mgyong/graphql-go/internal/exec/selected"
+	"github.com/mgyong/graphql-go/types"
 )
 
 type Response struct {

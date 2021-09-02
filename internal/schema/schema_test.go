@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/graph-gophers/graphql-go/internal/schema"
-	"github.com/graph-gophers/graphql-go/types"
+	"github.com/mgyong/graphql-go/internal/schema"
+	"github.com/mgyong/graphql-go/types"
 )
 
 func TestParse(t *testing.T) {
